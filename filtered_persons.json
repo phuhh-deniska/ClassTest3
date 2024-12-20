@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Денис Иванов",
+    "email": "ivan.ivanov@example.com"
+  },
+  {
+    "name": "Тимур Петров",
+    "email": "maria.petrovа@example.com"
+  },
+  {
+    "name": "Иван Подкорытов",
+    "email": "sergey.kuznetsov@example.com"
+  },
+  {
+    "name": "Ангелина Мирная",
+    "email": "anna.smirnova@example.com"
+  },
+  {
+    "name": "София Косова",
+    "email": "dmitriy.sidorov@example.com"
+  },
+  {
+    "name": "Алиса Магамедова",
+    "email": "elena.volkova@example.com"
+  }
+]
